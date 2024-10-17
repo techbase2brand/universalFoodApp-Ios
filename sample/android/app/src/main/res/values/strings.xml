@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">Warley</string>
+  <string name="checkout_web_view_title">Checkout</string>
+
+  <string name="facebook_app_id">379029208516209</string>
+  <string name="fb_login_protocol_scheme">fb379029208516209</string>
+  <string name="facebook_client_token">6d59825cfbe7815158cf2290c0d58bbe</string>
+
+
+</resources>

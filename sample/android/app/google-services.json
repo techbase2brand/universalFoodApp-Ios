@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "60854993712",
+    "project_id": "universalfoodapp-14f40",
+    "storage_bucket": "universalfoodapp-14f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60854993712:android:dd788a440fad2618f47ef5",
+        "android_client_info": {
+          "package_name": "com.UniversalFood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60854993712-0ghp4bjife8tjnr7s6edo2l5quopa7am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.UniversalFood",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "60854993712-98f2rsv29jf9gcl6i62877127gbiv1bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.UniversalFood",
+            "certificate_hash": "4bd9e705df97cadca80a95a48556cc8b81365245"
+          }
+        },
+        {
+          "client_id": "60854993712-l9tj7qvak16s4ig928hsplnlc81spm7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3aUe-dWBaxPZXldL5c8KUdIhY_kiq5uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60854993712-l9tj7qvak16s4ig928hsplnlc81spm7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
